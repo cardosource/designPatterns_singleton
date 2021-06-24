@@ -8,7 +8,7 @@ Garante a existência de apenas uma instância de uma classe, mantendo um ponto 
 
 
 ![GitHub](https://img.shields.io/badge/python-3.9.5-blue)   
-![GitHub](https://img.shields.io/badge/license-MIT-red)
+![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
 
 
 
